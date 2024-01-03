@@ -1,3 +1,5 @@
 .idea/*
 *.md~
 cmake-build-debug
+.vscode
+mytest*
