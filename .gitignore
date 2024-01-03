@@ -3,3 +3,4 @@
 cmake-build-debug
 .vscode
 mytest*
+.clang-format
